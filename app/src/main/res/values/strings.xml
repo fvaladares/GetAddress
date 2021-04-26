@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetAddress</string>
+    <string name="endereco">Endereço</string>
+    <string name="enviar">Enviar</string>
+</resources>
